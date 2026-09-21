@@ -14,7 +14,6 @@ on:
 permissions:
   contents: write
 
-
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -30,8 +29,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#0E2148&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E3D095&color_dots=#161b22,#0E2148,#1A3668,#2B5597,#E3D095
+            dist/github-contribution-grid-snake.svg?color_snake=#332C39&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E3D095&color_dots=#161b22,#332C39,#4D4255,#6B5B76,#E3D095
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
