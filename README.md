@@ -33,8 +33,10 @@ My code has improved since then. Probably.
 | [OTA-Bot-Mochi](https://github.com/camiu01/OTA-Bot-Mochi) | ESP32-S3 desktop companion with animated eyes, touch controls, motion sensing, and BLE integration. Includes a desktop emulator, native tests, and configurations for LCD and AMOLED boards. | C++, Arduino, PlatformIO |
 | [Haguruma](https://github.com/camiu01/Haguruma) | Interactive drivetrain simulator for comparing gear ratios, shift points, tractive force, and vehicle acceleration. Mathematical models and assumptions are documented. <br><br>[Live app ↗](https://camiu01.github.io/Haguruma/) | TypeScript, Vite |
 | [BenchCore](https://github.com/camiu01/BenchCore) | Self-hosted publishing platform for technical notes, with Markdown authoring, wikilinks, authentication, and media management. <br><br>[Website ↗](https://benchcore-ten.vercel.app) | TypeScript, SvelteKit, PostgreSQL |
+| [PolySheet](https://github.com/camiu01/PolySheet) | Local-first tabletop RPG character notebook with character sheets, notes, dice rolls, and encounter tracking. Supports importable system definitions, local backups, and offline use. <br><br>[Live app ↗](https://camiu01.github.io/PolySheet/) | TypeScript, Vite |
 | [YAPBPS](https://github.com/camiu01/YAPBPS) | Parametric enclosure for DC-DC bench power supplies, with configurable connector placement, ventilation patterns, and clearance checks. | OpenSCAD, Python |
 | [Omnistand](https://github.com/camiu01/Omnistand) | Parametric stand for handheld consoles and mobile devices, with adjustable dimensions, cable routing, and custom engraving. | OpenSCAD, Python |
+
 
 [All repositories →](https://github.com/camiu01?tab=repositories)
 
